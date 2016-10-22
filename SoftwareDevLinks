@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>OOSD Helpfulsoftware links</title>
+		<link rel="stylesheet" type="text/css" href="style.css" />
+		
+		<style>
+			header{
+				position:absolute;
+				top:0px;
+				bottom:65%;
+				width:100%;
+				background-color:red;
+				}
+				
+			main{
+				position:absolute;
+				top:300px;
+				bottom:1000px;
+				width:100%;
+				}
+			
+			footer{
+			position:absolute;
+				top:1000px;
+								width:100%;
+				}
+			
+		</style>
+
+	
+	</head>
+	
+	
+	<body background="seigaiha.png">
+
+		<header>
+	
+		<h1>Helpful Software links</h1>
+		</header>
+
+	<main>
+
+<a href="http://www.w3schools.com">Visit W3Schools</a>
+	
+	</main>
+	
+	
+
+	
+	</body>
+</html>
